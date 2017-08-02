@@ -1,0 +1,9 @@
+{
+  "name": "random-bear-generator",
+  "version": "0.0.0",
+  "description": "randomBearGenerator",
+  "main": "app.js",
+  "author": {
+    "name": "Amer Delic"
+  }
+}
